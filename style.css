@@ -89,7 +89,7 @@ text-align:center;
     height:70vh;
     background-color: rgb(0, 132, 255);
     animation-name: bandanimation;
-    animation-duration: 5s;
+    animation-duration: 3s;
 }
 
 @keyframes bandanimation {
